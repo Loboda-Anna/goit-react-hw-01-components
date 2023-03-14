@@ -1,5 +1,4 @@
 import styled from '@emotion/styled';
-// import data from 'components/Statistics/data.json';
 
 export const StatisticsContainer = styled.section`
 display: block;
