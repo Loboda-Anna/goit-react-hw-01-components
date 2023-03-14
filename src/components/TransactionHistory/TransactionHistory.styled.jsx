@@ -8,7 +8,6 @@ background-color: white;
 border-collapse: collapse;
 box-shadow: 10px 10px 15px -5px rgba(120,111,111,0.66); 
 
-
 thead {
   background: linear-gradient(90deg, rgba(121,121,238,1) 0%, rgba(0,212,255,1) 100%);
   border-color: rgba(0, 0, 18, 0.39);
@@ -24,8 +23,6 @@ tbody{
     width:100%; 
     
 }
-    
-}
 tr{
     :nth-of-type(2n) {
   background-color: RGBA(0,0,0,0.08);
@@ -38,4 +35,3 @@ td{
     width:33%;
 }
 `;
-
